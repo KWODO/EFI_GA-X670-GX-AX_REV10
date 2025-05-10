@@ -92,9 +92,13 @@ PCIEX4 (Slot 2)
 macOS Ventura/Sequoia (ACPI/SSDT-NV00_GC-MAPLE-RIDGE_REV10.aml)
 
 (BIOS F9 is the last update that unofficial supports the Maple Ridge TB4 AIC on this mainboard.
+
 "Enable Thunderbolt" and "disable security" in UEFI BIOS is inevitable.
+
 Both PCIe 6-Pin power cables must be connected for working PCIe-tunneling.)
+
 (Windows 11 needs the latest Drivers from ASUS ThunderboltEX 4, GIGABYTE Drivers are outdated.)
+
 Link to the manufacturer's driver page: https://www.asus.com/motherboards-components/motherboards/accessories/thunderboltex-4/helpdesk_download?model2Name=ThunderboltEX-4
 
 ------------------------------------------------------------------------------------------------
