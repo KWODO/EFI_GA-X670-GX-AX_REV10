@@ -69,14 +69,21 @@ PCI EXPRESS CARDS:
 ------------------------------------------------------------------------------------------------
 
 Sapphire TOXIC AMD Radeon RX 6950 XT Limited Edition 16 GB
+
 PCIEX16 (Slot 1)
+
 macOS Ventura/Sequoia (Kexts/nootrx.kext)
 
 
+
 GIGABYTE MAPLE RIDGE (rev. 1.0)
+
 Intel JHL8540 Thunderbolt 4-Controller
+
 PCIEX4 (Slot 2)
+
 macOS Ventura/Sequoia (ACPI/SSDT-NV00_GC-MAPLE-RIDGE_REV10.aml)
+
 (BIOS F9 is the last update that unofficial supports the Maple Ridge TB4 AIC on this mainboard.
 "Enable Thunderbolt" and "disable security" in UEFI BIOS is inevitable.
 Both PCIe 6-Pin power cables must be connected for working PCIe-tunneling.)
@@ -84,10 +91,15 @@ Both PCIe 6-Pin power cables must be connected for working PCIe-tunneling.)
 Link to the manufacturer's driver page: https://www.asus.com/motherboards-components/motherboards/accessories/thunderboltex-4/helpdesk_download?model2Name=ThunderboltEX-4
 
 
+
 Fenvi FV-T919 WIFI 802.11ac BT4.0 Wireless PCIe Adapter
+
 Broadcom BRCM94360CD
+
 PCIEX2 (Slot 3)
+
 macOS Ventura (native)
+
 macOS Sequoia (OCLP)
 
 
