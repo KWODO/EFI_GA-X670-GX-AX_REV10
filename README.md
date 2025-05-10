@@ -11,8 +11,10 @@ This OpenCore-EFI works with macOS Ventura & macOS Sequoia
 
 ------------------------------------------------------------------------------------------------
 
-AUDIO:   Realtek HD Audio (ALC897)
+AUDIO:
 ------------------------------------------------------------------------------------------------
+Realtek HD Audio (ALC897)
+
 OpenCore (AudioDxe.efi) - boot-chime output on speaker-out
 
 macOS Ventura (Kexts/AppleALC.kext v1.7.7) - speaker-out, line-out, line-in
@@ -20,8 +22,9 @@ macOS Ventura (Kexts/AppleALC.kext v1.7.7) - speaker-out, line-out, line-in
 macOS Sequoia -not supported-
 
 ------------------------------------------------------------------------------------------------
-ETHERNET:   Realtek RTL8125 2.5GbE LAN
+ETHERNET:
 ------------------------------------------------------------------------------------------------
+Realtek RTL8125 2.5GbE LAN
 
 macOS Ventura/Sequoia (Kexts/LucyRTL8125Ethernet.kext)
 
@@ -34,8 +37,9 @@ macOS Ventura/Sequoia -not supported-
 
 ------------------------------------------------------------------------------------------------
 
-USB-MAPPING: (Kexts/UTBMap_GA-X670-GX-AX_REV10.kext)
+USB-MAPPING:
 ------------------------------------------------------------------------------------------------
+(Kexts/UTBMap_GA-X670-GX-AX_REV10.kext)
 
 1x Front USB Type-C with switch (USB3.0+USB2.0)
 
@@ -50,7 +54,6 @@ USB-MAPPING: (Kexts/UTBMap_GA-X670-GX-AX_REV10.kext)
 ------------------------------------------------------------------------------------------------
 CPU:
 ------------------------------------------------------------------------------------------------
-
 AMD Ryzen 9 7950X 4.5 GHz AM5
 
 iGPU AMD Radeon Graphics (disabled in BIOS)
@@ -63,7 +66,6 @@ iGPU AMD Radeon Graphics (disabled in BIOS)
 
 RAM:
 ------------------------------------------------------------------------------------------------
-
 Kingston FURY Beast DDR5-5200 MHz 288-Pin 128 GB Kit (4 x 32 GB)
 
 KF552C40BBK-64 (2x)
@@ -74,7 +76,6 @@ KF552C40BBK-64 (2x)
 
 PCI EXPRESS CARDS:
 ------------------------------------------------------------------------------------------------
-
 Sapphire TOXIC AMD Radeon RX 6950 XT Limited Edition 16 GB
 
 PCIEX16 (Slot 1)
@@ -82,7 +83,6 @@ PCIEX16 (Slot 1)
 macOS Ventura/Sequoia (Kexts/nootrx.kext)
 
 ------------------------------------------------------------------------------------------------
-
 GIGABYTE MAPLE RIDGE (rev. 1.0)
 
 Intel JHL8540 Thunderbolt 4-Controller
@@ -102,7 +102,6 @@ Both PCIe 6-Pin power cables must be connected for working PCIe-tunneling.)
 Link to the manufacturer's driver page: https://www.asus.com/motherboards-components/motherboards/accessories/thunderboltex-4/helpdesk_download?model2Name=ThunderboltEX-4
 
 ------------------------------------------------------------------------------------------------
-
 Fenvi FV-T919 WIFI 802.11ac BT4.0 Wireless PCIe Adapter
 
 Broadcom BRCM94360CD
@@ -118,7 +117,6 @@ BOOTLOADER:
 ------------------------------------------------------------------------------------------------
 
 OpenCore v1.0.4
-
 ------------------------------------------------------------------------------------------------
 
 HINTS:
