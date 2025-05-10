@@ -38,9 +38,13 @@ USB-MAPPING: (Kexts/UTBMap_GA-X670-GX-AX_REV10.kext)
 ------------------------------------------------------------------------------------------------
 
 1x Front USB Type-C with switch (USB3.0+USB2.0)
+
 4x Front USB Type-A Ports (USB3.0+USB2.0)
+
 1x Back USB Type-C Port with switch (only USB3.0)
+
 8x Back USB Type-A Ports (only USB2.0)
+
 1x Internal USB 2.0 for Bluetooth
 
 ------------------------------------------------------------------------------------------------
@@ -48,6 +52,7 @@ CPU:
 ------------------------------------------------------------------------------------------------
 
 AMD Ryzen 9 7950X 4.5 GHz AM5
+
 iGPU AMD Radeon Graphics (disabled in BIOS)
 
 *¹ CPU is set to ECO-Mode (maxed at 105W instead of 170W) (optional BIOS setting)
@@ -60,7 +65,9 @@ RAM:
 ------------------------------------------------------------------------------------------------
 
 Kingston FURY Beast DDR5-5200 MHz 288-Pin 128 GB Kit (4 x 32 GB)
+
 KF552C40BBK-64 (2x)
+
 (Default (JEDEC) configuration for 4 modules in dual channel running @ DDR5-3600 MHz)
 
 ------------------------------------------------------------------------------------------------
@@ -74,7 +81,7 @@ PCIEX16 (Slot 1)
 
 macOS Ventura/Sequoia (Kexts/nootrx.kext)
 
-
+------------------------------------------------------------------------------------------------
 
 GIGABYTE MAPLE RIDGE (rev. 1.0)
 
@@ -90,7 +97,7 @@ Both PCIe 6-Pin power cables must be connected for working PCIe-tunneling.)
 (Windows 11 needs the latest Drivers from ASUS ThunderboltEX 4, GIGABYTE Drivers are outdated.)
 Link to the manufacturer's driver page: https://www.asus.com/motherboards-components/motherboards/accessories/thunderboltex-4/helpdesk_download?model2Name=ThunderboltEX-4
 
-
+------------------------------------------------------------------------------------------------
 
 Fenvi FV-T919 WIFI 802.11ac BT4.0 Wireless PCIe Adapter
 
