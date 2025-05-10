@@ -13,7 +13,7 @@ This OpenCore-EFI works with macOS Ventura & macOS Sequoia
 
 AUDIO:   Realtek HD Audio (ALC897)
 ------------------------------------------------------------------------------------------------
-OpenCore (AudioDxe.efi) - mac chime output on speaker-out
+OpenCore (AudioDxe.efi) - boot-chime output on speaker-out
 
 macOS Ventura (Kexts/AppleALC.kext v1.7.7) - speaker-out, line-out, line-in
 
