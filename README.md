@@ -124,7 +124,7 @@ OpenCore v1.0.4
 HINTS:
 ------------------------------------------------------------------------------------------------
 
--Generate your own "System Serial Nummer" and "System UUID" for this EFI-Files before using.
+-Generate your own "System Serial Number" and "System UUID" for this EFI-Files before using.
 You can use OpenCoreConfigurator or similar.
 It can be found in PlatformInfo/DataHub-Generic-PlatformNVRAM.
 
@@ -138,3 +138,5 @@ disable "nootrx.kext" and enable "whatevergreen.kext" in Kernel/Add.
 disable "SSDT-DTGP.aml" and "SSDT-NV00_GC-MAPLE-RIDGE_REV10.aml" in ACPI/Add.
 
 ------------------------------------------------------------------------------------------------
+
+If anyone finds mistakes or has suggestions for improvement, please let me now, thank you :)
